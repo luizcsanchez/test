@@ -1,4 +1,4 @@
-# personal-multiple-github-accounts-Edited
+# personal-multiple-github-accounts-Luiz
 
 ### Pré-requisito
 - Git instalado
